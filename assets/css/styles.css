@@ -9,6 +9,9 @@ body {
     text-align: center;
 }
 
+iframe {
+    margin-bottom: 20px;
+}
 #timer {
     font-size: 6vw;
     font-weight: bold;
